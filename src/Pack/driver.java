@@ -36,14 +36,14 @@ public class driver {
 		hm1.put("Saturday",4.0);
 		hm1.put("Sunday",4.0);
 		
-		HashMap<String,Integer> hm2=new HashMap<String,Integer>();
-		hm2.put("Monday",2);
-		hm2.put("Tuesday",2);
-		hm2.put("Wednesday",2);
-		hm2.put("Thursday",2);
-		hm2.put("Friday",2);
-		hm2.put("Saturday",2);
-		hm2.put("Sunday",10);
+		HashMap<String,Double> hm2=new HashMap<String,Double>();
+		hm2.put("Monday",2.0);
+		hm2.put("Tuesday",2.0);
+		hm2.put("Wednesday",2.0);
+		hm2.put("Thursday",2.0);
+		hm2.put("Friday",2.0);
+		hm2.put("Saturday",2.0);
+		hm2.put("Sunday",10.0);
 		
 		
 		HashMap<String,Double> hm3=new HashMap<String,Double>();
@@ -55,14 +55,14 @@ public class driver {
 		hm3.put("Saturday",1.5);
 		hm3.put("Sunday",1.5);
 		
-		HashMap<String,Integer> hm4=new HashMap<String,Integer>();
-		hm4.put("Monday",2);
-		hm4.put("Tuesday",2);
-		hm4.put("Wednesday",2);
-		hm4.put("Thursday",2);
-		hm4.put("Friday",2);
-		hm4.put("Saturday",4);
-		hm4.put("Sunday",4);
+		HashMap<String,Double> hm4=new HashMap<String,Double>();
+		hm4.put("Monday",2.0);
+		hm4.put("Tuesday",2.0);
+		hm4.put("Wednesday",2.0);
+		hm4.put("Thursday",2.0);
+		hm4.put("Friday",2.0);
+		hm4.put("Saturday",4.0);
+		hm4.put("Sunday",4.0);
 		
 		
 		li.put("TOI",hm);
